@@ -1,0 +1,6 @@
+{
+  "name": "AUERAA.DIGITAL",
+  "description": "All-in-one digital agency platform for AUERAA.DIGITAL — Creative Content, Strategic Marketing, Powerful Digital Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
